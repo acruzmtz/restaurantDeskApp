@@ -7,4 +7,4 @@ To save the files we use sqlite3.
 The program allows you to create, list, update and delete products.
 
 
-![capture1](drive "capture1")](https://drive.google.com/file/d/1ZlyXEYwdJAT4TBkBH5TECp3NpSca5oEH/view?usp=sharing "capture1")
+https://drive.google.com/file/d/1ZlyXEYwdJAT4TBkBH5TECp3NpSca5oEH/view?usp=sharing
